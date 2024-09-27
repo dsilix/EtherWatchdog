@@ -24,7 +24,7 @@ Etherscan API Key: You'll need an API key from Etherscan to query the blockchain
 Installation and Setup
 Clone the repository:
 ```
-git clone https://github.com/dsilix/EtherWatchdog
+git clone https://github.com/dsilix/EtherWatchdog.git
 ```
 ```
 cd EtherWatchdog
