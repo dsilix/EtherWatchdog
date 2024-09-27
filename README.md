@@ -15,10 +15,9 @@ Requirements
 Python 3.8+
 
 Python Packages: Install the required packages by running the following command:
-
-bash
-Copy code
+```
 pip install aiohttp pygame
+```
 Etherscan API Key: You'll need an API key from Etherscan to query the blockchain. Be sure to replace the placeholder in the script with your own API key.
 
 Installation and Setup
